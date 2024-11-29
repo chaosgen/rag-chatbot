@@ -30,4 +30,4 @@ jobs:
           IMAGE_NAME: chatbot
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.actor }}
-          ORGANIZATION_NAME: datvodinh
+          ORGANIZATION_NAME: chaosgen

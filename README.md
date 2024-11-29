@@ -40,7 +40,7 @@
 ### 2.1. Clone project
 
 ```bash
-git clone https://github.com/datvodinh/rag-chatbot.git
+git clone https://github.com/chaosgen/rag-chatbot.git
 cd rag-chatbot
 ```
 
@@ -125,4 +125,4 @@ source ./scripts/run.sh --ngrok
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=datvodinh/rag-chatbot&type=Date)](https://star-history.com/#datvodinh/rag-chatbot&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=chaosgen/rag-chatbot&type=Date)](https://star-history.com/#chaosgen/rag-chatbot&Date)
